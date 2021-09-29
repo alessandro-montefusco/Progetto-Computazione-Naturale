@@ -1,0 +1,18 @@
+				SPECIFICHE DI PROGETTO
+- Settare il danno sempre a 0: la macchina non subisce danni.
+- Non usare gli opponents.
+- Non considerare la benzina (abbastanza per completare 2 giri).
+- La macchina parte sempre da fermo.
+- Deve completare SOLO 2 giri:
+	Minor tempo possibile;
+	Senza uscire dalla pista.
+- Partendo dal controllore dato, ottimizzare i parametri di guida per ottenere   le specifiche di cui sopra (controllare sensori ed attuatori).
+- Evitare circuiti con caratteristiche molto complicate, ma scegliere 2/3   circuiti con caratteristiche piuttosto differenti: IMPORTANTE FAR VEDERE   COME IL CONTROLLORE GENERALIZZA.
+____________________________________________________________________________________
+				SCELTE DI PROGETTO
+- Le piste scelte sono: Forza, CG Speedway n.1. Per dimostrare la   generalizzazione, invece, si considerino: Wheel 1, Street 1.
+- Gli algoritmi scelti per l'evoluzione dei parametri sono:
+	SA_Differential Evolution;
+	Particle Swarm Optimization.
+____________________________________________________________________________________
+

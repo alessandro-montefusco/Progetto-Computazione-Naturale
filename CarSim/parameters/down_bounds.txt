@@ -1,0 +1,9 @@
+{"consideredstr8": 0, "str8thresh": 0, "safeatanyspeed": 0, "offroad": 0, "fullstmaxsx": 10, "wwlim": 2,  "sxappropriatest1": 8, "oksyp": 0, "slipdec": 0, "spincutslp": 0, "ignoreinfleA": 5, "s2sen": 2,  "seriousABS": 14,   "obviousbase": 50, "stst": 250, "stC": 150, "pointingahead": 1,  "spincutclip": 0,  "clutchslip": 45,  "obvious": 0, "backontracksx": 35,   "clutchspin": 25, "fullstis": 0.5, "brake": 0, "carmin": 15, "sycon2": 0, "s2cen": 0, "sycon1": 0,  "carmaxvisib": 1.5, "sxappropriatest2": 0, "skidsev1": 0, "wheeldia": 0.5, "brakingpacefast": 0, "spincutint": 0, "st": 350, "brakingpaceslow": 1, "sortofontrack": 0, "steer2edge": 0.5, "backward": 1, "upsh2rpm": 7000, "dnsh1rpm": 4000, "upsh3rpm": 7000,"dnsh2rpm": 4000,"upsh4rpm": 7000,"dnsh3rpm": 4000, "upsh5rpm": 7000,"dnsh4rpm": 4000,"upsh6rpm": 7000,"dnsh5rpm": 4000}
+
+
+
+
+
+
+
+
